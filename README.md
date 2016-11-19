@@ -5,6 +5,7 @@ Install and Setup scripts for RetroPie 4.0.2+ on RAS Consol Pi(I2C CLCD edition)
 
 ##About
 Setup script for RAS Console-Pi project(http://cafe.naver.com/raspigamer/2213) running on Raspberry Pi 2,3 and RetroPie v4.0.2 and later.
+Install script made by [zzeromin](https://github.com/zzeromin) & [zerocool](https://github.com/ipromiseyou).
 
 ##Features
 * Current Date and Time, IP address of eth0, wlan0
@@ -72,6 +73,8 @@ ADDRESS = 0x27 # or 0x3f
 * http://forums.rasplay.org/topic/318/scrolling-game-title-for-retropie-v4-0-2-using-16x2-clcd-on-ras-console-pi
 
 ## Reference
+* https://github.com/ipromiseyou/RetroPie-AutoSet
+* https://github.com/zzeromin/RetroPie-Clcd
 * https://retropie.org.uk/forum/topic/2211/questions-about-runcommand-sh
 * https://retropie.org.uk/forum/topic/3134/meet-the-retrog-update-17-8-paintjob-pics
 * https://retropie.org.uk/forum/topic/3731/solved-variables-with-runcommand-onstart-sh
