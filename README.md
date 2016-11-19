@@ -4,13 +4,21 @@ Install and Setup scripts for RetroPie 4.0.2+ on RAS Consol Pi(I2C CLCD edition)
 <img src="https://github.com/zzeromin/RetroPie-Clcd/blob/master/RetroPie-Clcd01.jpg" width="70%" height="70%">
 
 ##About
-Setup script for RAS Console-Pi project(http://cafe.naver.com/raspigamer/2213).
-running on Raspberry Pi 2,3, which displays all necessary info on a 16x2 CLCD display
+Setup script for RAS Console-Pi project(http://cafe.naver.com/raspigamer/2213) running on Raspberry Pi 2,3 and RetroPie v4.0.2 and later.
 
 ##Features
 * Current Date and Time, IP address of eth0, wlan0
 * CPU Temperature and Speed
 * Emulation and ROM information
+* KR Localization
+* Hangul Gamelist, scraping imgages of fba, mame4all, advmame
+* improvement of putty login information
+* Root login available by ssh
+* Network wait disable
+* TimeZone setup for Asia/Seoul
+* Samba setup
+* add PowerMenu in Emulationstation
+* GPIO Setup
 
 ##Development Environment
 * Raspberry Pi 2, 3
