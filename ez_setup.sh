@@ -1,6 +1,6 @@
 ##ez_setup.sh
 # Title        : Setup script of RetroPie-RAS_Consol_Pi
-# Author       : zzeromin, member of Raspberrypi Village & raspigamer
+# Author       : [zzeromin](https://github.com/zzeromin) & [zerocool](https://github.com/ipromiseyou) member of Raspberrypi Village & raspigamer
 # Creation Date: Nov 19, 2016
 # Blog         : http://rasplay.org, http://forums.rasplay.org/, https://zzeromin.tumblr.com/
 # Thanks to    : smyani, zerocool, superstar
